@@ -1,0 +1,11 @@
+{
+    "display_name": "HTML buttons + Impersonate for RPG",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "atelier__r on discord (meowgnum)",
+    "version": "1.0.0",
+    "homePage": "https://github.com/vigilant-3/ST-RPG-IMPERSONATE",
+    "auto_update": true
+}
